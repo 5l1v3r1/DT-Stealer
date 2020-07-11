@@ -1,0 +1,82 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #eceeee;
+}
+header{
+	padding: 10px 5px;
+	background-color: #373737;
+	color: #fff;
+	margin-bottom: 20px;
+}
+a{
+	text-decoration: none;
+	color: #fff;
+}
+a:hover{
+	color: #fff;
+	text-decoration: none;
+}
+.logo_link{
+	font-size: 24px;
+}
+.header_content{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: space-between;
+	-ms-align-items: center;
+	align-items: center;
+	font-weight: bold;
+	font-style: italic;
+}
+.header_content a{
+	font-weight: bold;
+}
+.site_wrap .nav-link{
+	color: #444;
+}
+.link_dowl{
+	color: #007bff;
+	font-weight: bold;
+	opacity: .9;
+}
+.link_dowl:hover{
+	color: #007bff;
+	opacity: 1;
+}
+.bac-wrap{
+	background-color: #fff;
+	padding: 10px;
+}
+.nav-tabs{
+	margin-bottom: 10px;
+}
+table{
+	text-align: center;	
+}
+.form_admin{
+	max-width: 460px;
+	margin: 0 auto;
+	padding: 10px;
+}
+.form_admin input{
+	margin-bottom: 10px;
+}
+.open_report{
+	color: #000;
+	font-weight: bold;
+}
+.open_report:hover{
+	color: #666;
+}
+footer{
+	margin-top: 20px;
+	font-size: 16px;
+	text-align: center;
+	color: #000;
+	font-style: italic;
+	font-weight: bold;
+}

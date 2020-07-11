@@ -1,0 +1,16 @@
+@media screen and (max-width: 960px){
+	.header_content{
+		-webkit-flex-direction: column;
+		-moz-flex-direction: column;
+		-ms-flex-direction: column;
+		-o-flex-direction: column;
+		flex-direction: column;
+		justify-content: center;
+	}
+}
+@media screen and (max-width: 540px){
+	
+}
+@media screen and (max-width: 380px){
+	
+}
